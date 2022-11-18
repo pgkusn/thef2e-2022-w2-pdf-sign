@@ -18,6 +18,6 @@ git add -A
 git commit -m 'deploy'
 
 # 部署在 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:<USERNAME>/<REPO>.git main:gh-pages
+git push -f git@github.com:pgkusn/thef2e-2022-w2-pdf-sign.git main:gh-pages
 
 cd -

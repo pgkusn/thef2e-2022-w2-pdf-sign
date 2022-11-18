@@ -11,5 +11,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  base: '/w2-pdf-sign/',
+  base: '/thef2e-2022-w2-pdf-sign/',
 })
